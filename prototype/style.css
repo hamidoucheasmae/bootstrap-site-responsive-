@@ -1,0 +1,25 @@
+
+
+/* .nav-link {
+   color: rgb(0, 0, 0);
+   background-color: white; 
+   justify-content: space-around;
+   align-items: center
+   !important;
+} */
+.nav-item{
+  padding: 15px;
+}
+
+/* .nav justify-content-end{
+  
+  padding: 0;
+  margin: 0;
+  width: 60%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  !important
+
+} */
