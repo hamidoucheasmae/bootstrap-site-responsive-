@@ -23,7 +23,8 @@
 }
 
 .mynav a {
-  border-bottom: 2px solid #517A7E t;
+  
+  border-bottom: 5px solid transparent;
 
 }
 
