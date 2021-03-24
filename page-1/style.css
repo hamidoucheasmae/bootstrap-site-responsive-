@@ -1,0 +1,23 @@
+
+
+
+.nav-item{
+  padding: 15px;
+}
+
+.row-img {
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  padding: 5%;
+  
+  
+
+}
+.row-img h1 {
+  color:#517A7E;
+  font-weight: bold;
+}
+.card-footer text-muted{
+
+  background-color: #517A7E !important;
+}
