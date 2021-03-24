@@ -21,3 +21,13 @@
 
   background-color: #517A7E !important;
 }
+
+.mynav a {
+  border-bottom: 2px solid #517A7E t;
+
+}
+
+
+.active a:hover {
+border-bottom: 2px solid #517A7E;
+}
