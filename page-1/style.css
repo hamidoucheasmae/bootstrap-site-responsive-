@@ -32,3 +32,34 @@
 .active a:hover {
 border-bottom: 2px solid #517A7E;
 }
+/* .mynav a:before {
+content: "";
+position: absolute; 
+bottom: -7px;
+left: 0;
+width: 100%;
+height: 5px;
+background-color: #517A7E;
+border-radius: 8px 8px 0 0;
+opacity: 0;
+transition: 0.3s;
+}
+.nav-item .mynav a:not(.active):hover:before {
+opacity: 1;
+bottom: 0;
+}
+
+.nav-item :not(.active):hover:before {
+ color: #517A7E;
+  }
+  .nav-item .active {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    transition: 0.4s;
+    height: 5px;
+    z-index: 1;
+    border-radius: 8px 8px 0 0;
+
+  } */
